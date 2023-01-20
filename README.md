@@ -1,2 +1,7 @@
 # Object-to-array
-JS code to convert object values to array 
+ 
+var obj = {
+ a: "hello",
+ b: "this is",
+ c: "javascript!",
+};
